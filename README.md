@@ -33,7 +33,7 @@ otc = get_list_assets("otc")
 etf = get_list_assets("etf")
 futures = get_list_assets("futures")
 
-print(shares, otc, etf, futures
+print(shares, otc, etf, futures)
 ```
 
 Получение последней цены по бумаге:
